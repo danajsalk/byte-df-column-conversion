@@ -17,11 +17,14 @@ Data from different sources comes in many different datatypes including "bytes".
   })
   
 
-![simple_byte.png](attachment:simple_byte.png)
+![simple_byte](https://user-images.githubusercontent.com/46821074/71698359-7f1aa700-2d78-11ea-993a-5cd55d18f40b.png)
+
 
 **Converted**
 
-![simple_byte_converted.png](attachment:simple_byte_converted.png)
+![simple_byte_converted](https://user-images.githubusercontent.com/46821074/71698378-935ea400-2d78-11ea-9b20-fb4cefbc7879.png)
+
+
 
 **Complex Example** Nested JSON Byte
 * d2 = {"food": ["fruit"
@@ -32,7 +35,8 @@ Data from different sources comes in many different datatypes including "bytes".
                , b'[{"type":"fruit", "data": {"apple":"red", "orange":"orange"}}, {"type": "vegetable", "data": {"onion":"white", "carrot": "orange"}}]']
      }
      
-![complex_byte_conversion.png](attachment:complex_byte_conversion.png)     
+ ![complex_byte_conversion](https://user-images.githubusercontent.com/46821074/71698391-9c4f7580-2d78-11ea-86e4-1d8598a2f8ac.png)
+
     
 
 ## How to Run: 
